@@ -23,11 +23,11 @@ EMAIL_ADRESS_NO_4   | Var4_1 | Var4_2 | Var4_3 | ...
 
 Example:
 
-Hello %s,                                             |
-You're our %s customer! You're our top %s %% user!!   |
-We'd like to thank you for your support.              |
-Sincerely,                                            |
-Your Agent %s                                         |
+Hello %s,                                            
+You're our %s customer! You're our top %s %% user!!   
+We'd like to thank you for your support.              
+Sincerely,        
+Your Agent %s     
 -----------------------------------------------------------------------------------------
 adressNom1@domain.com                                 | Bob   | 120th   | 2  | Bobby
 -----------------------------------------------------------------------------------------
@@ -35,6 +35,7 @@ addressNom2@anotherDomain.com                         | Susan | 2nd     | 1  | R
 -----------------------------------------------------------------------------------------
 addressNom3@gmail.com                                 | John  | 90241st | 98 | Rosalie
 -----------------------------------------------------------------------------------------
+
 
 *(Missing variables will be filled with '0')
 
